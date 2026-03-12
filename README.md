@@ -57,9 +57,13 @@ dataset
 
 ## How to Run
 Install required dependencies.
+
 Run `train.ipynb` to train the model.
+
 Run `fruit_detection.py` to detect fruits in an image.
+
 Run `count_fruit.py` to detect and count fruits in an image.
+
 Run `video_detection.py` to detect and count fruits in a video.
 
 
